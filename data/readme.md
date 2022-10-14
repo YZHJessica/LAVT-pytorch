@@ -37,5 +37,7 @@ https://drive.google.com/drive/folders/1LAesXRPCp2ouJbBg-axN-xqrEGrk8XOd?usp=sha
 Besides make a folder named as "images".
 Add "mscoco" into "images/". 
 Download MSCOCO from [mscoco](http://mscoco.org/dataset/#overview)
+
 > Tips: images are from MSCOCO2014 training sets
+
 Add "saiapr_tc-12" into "images/". I only extracted the related images as a subset of the original [imageCLEF](http://imageclef.org/SIAPRdata), i.e., 19997 images. Please download the subset from here (http://bvisionweb1.cs.unc.edu/licheng/referit/data/images/saiapr_tc-12.zip).
